@@ -24,6 +24,7 @@ Also known as "stuff I'm familiar... or somewhat familiar with". :>
 ![JS](https://img.shields.io/badge/JavaScript-black?style=flat&logo=javascript&logoColor=%23F7DF1E)
 ![TS](https://img.shields.io/badge/TypeScript-white?style=flat&logo=typescript&logoColor=%233178C6)
 ![React](https://img.shields.io/badge/React-4dadc7?style=flat&logo=react&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-%23646CFF?logo=vite&logoColor=ffd42c)
 ![HTML5](https://img.shields.io/badge/HTML5-white?style=flat&logo=html5&logoColor=%23E34F26)
 ![CSS](https://img.shields.io/badge/CSS-white?style=flat&logo=css&logoColor=%23663399)
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1?style=flat&logo=mysql&logoColor=white)
