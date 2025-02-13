@@ -56,5 +56,4 @@ Also known as "stuff I'm familiar... or somewhat familiar with". :>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=camiloandherrera&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 📒 Stats:
-[![Cam's GitHub stats](https://github-readme-stats.vercel.app/api?username=camiloandherrera&theme=tokyonight&hide=contribs,prs,issues)](https://github.com/anuraghazra/github-readme-stats)
-
+![Cam's GitHub stats](https://github-readme-stats.vercel.app/api?username=camiloandherrera&theme=tokyonight&hide=contribs,prs,issues)
