@@ -4,7 +4,7 @@
 I'm Cam, a Computer Engineering student, and part-time artist!
 ## 🎨 What am I up to?:
 📖 Currently I'm working on my assigned projects for my Software Engineering and Numeric Methods courses.<br>
-💻 Alongside the classwork, I'm learning Python, C#, IPython, JavaScript, as well as a few related frameworks.<br>
+💻 Alongside the classwork, I'm learning Python, C#, JavaScript, as well as a few related frameworks.<br>
 ⏱️ Trying to use my time in the best way possible, so I can both learn to code and learn to draw~
 
 
