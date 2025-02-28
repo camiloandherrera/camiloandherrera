@@ -53,7 +53,7 @@ Also known as "stuff I'm familiar... or somewhat familiar with". :>
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 
 ### 💻 Top (public) Langs:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=camiloandherrera&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=camiloandherrera&theme=tokyonight&hide=jupyter%20notebook&langs_count=5&size_weight=0.5&count_weight=0.5)
 
 ### 📒 Stats:
 ![Cam's GitHub stats](https://github-readme-stats.vercel.app/api?username=camiloandherrera&theme=tokyonight&hide=contribs,issues)
