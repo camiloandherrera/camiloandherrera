@@ -30,6 +30,7 @@ Also known as "stuff I'm familiar... or somewhat familiar with". :>
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1?style=flat&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%234169E1?style=flat&logo=postgresql&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-%23D71F00?style=flat&logo=sqlalchemy&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-%23E92063?logo=pydantic&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-%23003B57?style=flat&logo=sqlite&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-white?style=flat&logo=mongodb&logoColor=%2347A248)
 ![Git](https://img.shields.io/badge/Git-white?style=flat&logo=git&logoColor=%23F05032)
@@ -50,7 +51,12 @@ Also known as "stuff I'm familiar... or somewhat familiar with". :>
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-ffca3a?style=flat&logo=python&logoColor=3776AB)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-%23E92063?logo=pydantic&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![JS](https://img.shields.io/badge/JavaScript-black?style=flat&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/React-4dadc7?style=flat&logo=react&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-%23646CFF?logo=vite&logoColor=ffd42c)
+
 
 ### 💻 Top (public) Langs:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=camiloandherrera&theme=tokyonight&hide=jupyter%20notebook&langs_count=5&size_weight=0.5&count_weight=0.5)
