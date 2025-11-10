@@ -3,7 +3,7 @@
 
 I'm Cam, a Computer Engineering student, and part-time artist!
 ## 🎨 What am I up to?:
-📖 Currently, I'm preparing myself for my next Software Engineering course, as well as aiming to build a dev portfolio.<br>
+📖 Currently, I'm at my Software Engineering II course at uni, as well as preparing myself in various subjects, aiming to build a dev portfolio.<br>
 💻 Alongside the classwork, I'm learning Python, C#, JavaScript, as well as a few related frameworks.<br>
 ⏱️ Trying to use my time in the best way possible, so I can both learn to code and learn to draw~
 
