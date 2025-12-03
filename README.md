@@ -61,9 +61,3 @@ Also known as "stuff I'm familiar... or somewhat familiar with". :>
 ![CSS](https://img.shields.io/badge/CSS-white?style=flat&logo=css&logoColor=%23663399)
 ![MongoDB](https://img.shields.io/badge/MongoDB-white?style=flat&logo=mongodb&logoColor=)
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1?style=flat&logo=mysql&logoColor=white)
-
-### 💻 Top (public) Langs:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=camiloandherrera&theme=tokyonight&hide=jupyter%20notebook&langs_count=5&size_weight=0.5&count_weight=0.5)
-
-### 📒 Stats:
-![Cam's GitHub stats](https://github-readme-stats.vercel.app/api?username=camiloandherrera&theme=tokyonight&hide=contribs,issues)
