@@ -23,8 +23,6 @@ Stuff I've used so far in university and personal projects.
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Jupyter/IPython](https://img.shields.io/badge/Jupyter%2FIPython-%23F37626?logo=jupyter&logoColor=white)
 ![JS](https://img.shields.io/badge/JavaScript-black?style=flat&logo=javascript&logoColor=%23F7DF1E)
-![TS](https://img.shields.io/badge/TypeScript-white?style=flat&logo=typescript&logoColor=%233178C6)
-![Node.js](https://img.shields.io/badge/Node.js-%235FA04E?logo=nodedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-4dadc7?style=flat&logo=react&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-%23646CFF?logo=vite&logoColor=ffd42c)
 ![HTML5](https://img.shields.io/badge/HTML5-white?style=flat&logo=html5&logoColor=%23E34F26)
