@@ -3,7 +3,7 @@
 
 I'm Cam, a Computer Science Engineering student, and part-time artist!
 
-## What am I up to?:
+## What am I up to?
 - I recently finished the Software Engineering II class at my university. I am currently preparing myself as a Software Engineer, going deeper and beyond the scope of those first two Software Engineering classes, aiming to build a useful dev portfolio. Alongside the classwork for various subjects, I'm currently focused on learning
   -  Different frameworks used for software development with Python, Java, C# and JavaScript. 
   -  Containerization, Deployment and Scaling of applications.
@@ -11,7 +11,7 @@ I'm Cam, a Computer Science Engineering student, and part-time artist!
   -  Reinforcing my knowledge regarding, including both SQL and NoSQL.
 - Trying to use my time in the best way possible, so I can both learn to code and learn to draw~
 
-## Tech Stack:
+## Tech Stack
 
 Stuff I've used so far in university and personal projects.
 
