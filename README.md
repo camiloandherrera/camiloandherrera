@@ -8,7 +8,7 @@ I'm Cam, a Computer Science Engineering student, and part-time artist!
   -  Different frameworks used for software development with Python, Java, C# and JavaScript. 
   -  Containerization, Deployment and Scaling of applications.
   -  Software Engineering concepts such as the Software Development Processes, Design, Architecture Patterns, User Requirements, Use Cases, Testing, etc.
-  -  Reinforcing my knowledge regarding, including both SQL and NoSQL.
+  -  Reinforcing my knowledge regarding databases, including both SQL and NoSQL.
 - Trying to use my time in the best way possible, so I can both learn to code and learn to draw~
 
 ## Tech Stack
